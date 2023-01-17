@@ -31,7 +31,7 @@ O simples intuito do projeto é fazer um sistema onde o portão irá receber inf
 
 ## 📸 Protótipo
 
-![image](![image](![image](https://user-images.githubusercontent.com/73807067/212785869-50dc047f-e6c6-43cd-97fc-2e51fdff1fdc.png)))
+![57360780-c108-4cb0-a2c3-25117ff113f9](https://user-images.githubusercontent.com/73807067/212786165-1d18f314-79de-4f27-971f-10fe79a18307.jpg)
 
 ## 📄 Licença
 
