@@ -1,5 +1,5 @@
 # Arduino gate simulator
-O projeto foi feito para fins de aprendizagem e utilizada como método de avaliação técnica.
+O projeto foi feito para fins de aprendizagem e aprimoramentos técnicos.
 
 ## 🚀 Começando
 
