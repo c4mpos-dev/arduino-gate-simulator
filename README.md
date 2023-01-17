@@ -1,4 +1,4 @@
-# Arduino project
+# Arduino gate simulator
 O projeto foi feito para fins de aprendizagem e utilizada como método de avaliação técnica.
 
 ## 🚀 Começando
