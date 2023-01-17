@@ -23,11 +23,11 @@ Essa é a versão inicial do produto, que receberá novas versões ao decorrer d
 
 O simples intuito do projeto é fazer um sistema onde o portão irá receber informações do receptor infravermelho somente de dia, assim, fazendo com que ele só feche e abra de dia, na parte da noite ele terá que ficar fechado.
 
-Micro-servos: Motor que simula o portão.
-Fotoresistor: Captar a intensidade da luz recebida e identificar o horário do dia.
-Leds: Vermelho = Fechado, Amarelo = Abrindo/Fechando, Verde = Aberto.
-Infravermelho: Receber informações do controle remoto.
-Controle remoto: Mandar informações para o infravermelho.
+* Micro-servos: Motor que simula o portão.
+* Fotoresistor: Captar a intensidade da luz recebida e identificar o horário do dia.
+* Leds: Vermelho = Fechado, Amarelo = Abrindo/Fechando, Verde = Aberto.
+* Infravermelho: Receber informações do controle remoto.
+* Controle remoto: Mandar informações para o infravermelho.
 
 ## 📸 Protótipo
 
