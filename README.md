@@ -31,7 +31,7 @@ Controle remoto: Mandar informações para o infravermelho.
 
 ## 📸 Protótipo
 
-![image](![image](https://user-images.githubusercontent.com/73807067/212785273-8c0d9cac-e1b3-403e-a7bb-2837f9bd9b6b.png))
+![image](![image](![image](https://user-images.githubusercontent.com/73807067/212785869-50dc047f-e6c6-43cd-97fc-2e51fdff1fdc.png)))
 
 ## 📄 Licença
 
